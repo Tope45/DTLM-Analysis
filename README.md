@@ -8,6 +8,10 @@
 #### Analysis
 ![](https://github.com/Tope45/DTLM-Analysis/blob/main/Report.png) 
 
-Modeling 
+### Modeling 
+
 Before Modeling and After Modeling
-![]()
+
+
+![](https://github.com/Tope45/DTLM-Analysis/blob/main/segment.png)
+![](https://github.com/Tope45/DTLM-Analysis/blob/main/segment.png)
